@@ -1,3 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.124:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.124:8880 sing-box 278
-vless://f33ede32-df46-43be-b08e-ec8f2144d831@37.156.46.192:32079?security=none&type=tcp&host=@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇨🇭 CH-37.156.46.192:32079 sing-box 298
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&sni=147135001178.sec22org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-15.204.150.39:443 sing-box 606
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@116.202.177.63:443?security=tls&sni=gift-4101664.FaraSorat.Net&type=ws&host=Nuremberg1.FaraSorat.net&path=%2FpV67LRFs428xHke56mDQ#🔒 VL-WS-TLS 🇩🇪 DE-116.202.177.63:443 sing-box 1038

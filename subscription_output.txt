@@ -1,1 +1,2 @@
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?security=tls&sni=test.gamebestir0.ir&type=grpc&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇮 FI-157.180.16.69:2087 sing-box 434
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.190.19:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-84.32.190.19:8880 sing-box 209
+vless://b6c6856b-fa48-4b2d-a252-a55ed5fc3605@95.211.62.200:80?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=r3AUhD5_0NU00NjPOH5XdfVvZfJLmmqnt5cdH0WQsGo#🔒 VL-TCP-RLT 🇳🇱 NL-95.211.62.200:80 sing-box 334

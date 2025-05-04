@@ -1,47 +1,29 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇷 FR-94.131.9.172:8880 sing-box 206
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.122:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.122:8880 sing-box 223
-vless://72ca20e3-0a4a-4484-82d7-c9ba670621bb@212.80.10.15:444?security=none&type=tcp&host=7z90w2qs.cafebazaar.ir%2C+7z90w2qs.divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.10.15:444 sing-box 252
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.228:8880 sing-box 253
-vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NA 🇳🇱 NL-103.97.88.93:2052 sing-box 255
-vless://b6c6856b-fa48-4b2d-a252-a55ed5fc3605@95.211.62.200:80?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=r3AUhD5_0NU00NjPOH5XdfVvZfJLmmqnt5cdH0WQsGo#🔒 VL-TCP-RLT 🇳🇱 NL-95.211.62.200:80 sing-box 355
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?type=grpc#🔒 VL-GRPC-NA 🇨🇾 CY-45.82.251.141:8880 sing-box 393
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=none&sni=pqh33v3.vetdomok.shop&type=grpc&host=pqh33v3.vetdomok.shop#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.149:8880 sing-box 396
-vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&type=tcp&host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.194.102:4405 sing-box 413
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.57:8880 sing-box 400
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.129:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.129:8880 sing-box 401
-vless://0b872dc1-d11c-4a33-8c30-370cb42faafa@194.182.79.252:10785?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.252:10785 sing-box 435
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.194:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.194:8880 sing-box 473
-vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&type=ws&host=lv01.abvpn.ru&path=%2Fwebsocket#🔒 VL-WS-TLS 🇹🇷 TR-103.231.73.214:443 sing-box 502
-vless://22b81218-f468-4669-82d9-8478a2d6e1c1@172.82.67.156:50053?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=1bKlPdqVK9VasWW8_hifxR7Il-L_z1RubgMZCiVwMGU&sid=71ec9423441f1af3#🔒 VL-TCP-RLT 🇺🇸 US-172.82.67.156:50053 sing-box 597
-vless://0a5ff329-fc56-4f09-8acf-0185ee43b6ad@172.82.67.157:59284?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=HjDYkuFrSpr9tFVhomh23yCFfdhePmP5dRJvm52ZbSU&sid=38#🔒 VL-TCP-RLT 🇺🇸 US-172.82.67.157:59284 sing-box 616
-vless://0fb03ca9-4a75-40d3-9fb9-0be1905f81d1@172.82.67.156:21589?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=puc3rXSP9pnRqNTtHzQFHrDyVmXKsZGIk4R_R98u8hQ&sid=984d848a#🔒 VL-TCP-RLT 🇺🇸 US-172.82.67.156:21589 sing-box 661
-vless://4afee6c0-a9b7-4de1-a7e8-d3e45b1a86de@172.82.67.158:21104?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=_DA9cy2VCQjFH7C3c3IjQgNu_6Wx14FR186V50vz4RI&sid=43b4d5203b44#🔒 VL-TCP-RLT 🇺🇸 US-172.82.67.158:21104 sing-box 678
-vless://87a3bcda-e691-48e0-bff5-1661182e63fa@172.82.67.158:36716?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=rOV46n6ilJBE_XGk-Xt07xcHQ6V7DpNpGfLlfG89jV8&sid=704de09b#🔒 VL-TCP-RLT 🇺🇸 US-172.82.67.158:36716 sing-box 713
-vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:2053 sing-box 738
-vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.16.156.65:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.156.65:443 sing-box 764
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?security=tls&sni=test.gamebestir0.ir&type=grpc&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇮 FI-157.180.16.69:2087 sing-box 801
-vless://68509f46-3d3b-4eaf-9fff-d5eb032ecddd@65.109.212.145:2052?security=reality&sni=tgju.org&type=tcp&host=%2FJOK%45%52%52VPNJoin_Bade_Channel%40JOK%45R%52VPN&fp=chrome&pbk=lyERL7w2tINLy4Z2hlEbg8wyfzO7uTpESrZMZzr3iVo&sid=83e8#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.212.145:2052 sing-box 821
-vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇺🇸 US-185.140.211.50:2052 sing-box 821
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.193:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.193:8880 sing-box 849
-vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.68.33:443?security=tls&sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.33:443 sing-box 1001
-vless://b4d8b834-2e9c-4815-b3bb-57c278ddfecb@104.24.85.214:8443?security=tls&sni=bai-56t.pages.dev&type=ws&host=bai-56t.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.85.214:8443 sing-box 995
-vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.24.94.106:2087?security=tls&sni=w-am1.pages.dev&type=ws&host=w-am1.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.94.106:2087 sing-box 1070
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?security=tls&sni=mylearn-8zx.pages.dev&type=ws&host=mylearn-8zx.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.103:443 sing-box 1317
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.130:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.130:8880 sing-box 219
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.230:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.9.230:8880 sing-box 196
-vless://faf51e77-ee0f-4089-a490-b45a1ccdc09f@194.182.79.119:17958?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NONE 🇨🇿 CZ-194.182.79.119:17958 sing-box 224
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.191:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.191:8880 sing-box 210
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.25.237:8880 sing-box 235
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443 sing-box 440
-vless://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&type=ws&host=de09.abvpn.ru&path=%2Fwebsocket#🔒 VL-WS-TLS 🇩🇪 DE-150.241.101.16:443 sing-box 494
-vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.112.97:80 sing-box 516
-vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.24.10.235:443?security=tls&sni=shutu.pages.dev&type=ws&host=shutu.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.10.235:443 sing-box 632
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.246.132:443?security=tls&sni=vless10-9sc.pages.dev&type=ws&host=vless10-9sc.pages.dev&path=/?ed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.246.132:443 sing-box 673
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&sni=vless10-9sc.pages.dev&type=ws&host=vless10-9sc.pages.dev&path=/?ed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.210.171:443 sing-box 700
-vless://7f56467b-597a-4549-b3a7-2288c47a1d86@104.16.213.133:2083?security=tls&sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.213.133:2083 sing-box 632
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.189.102:80 sing-box 813
-vless://9bb8610b-c76e-40e4-84e2-6591df2e0344@104.19.194.8:443?security=tls&sni=123456789-1xt.pages.dev&type=ws&host=123456789-1xt.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.194.8:443 sing-box 717
-vless://575d2e5e-e7a4-48b8-a55e-aa38e16a3106@104.16.59.70:80?security=none&type=ws&host=flat-bird-3aa7-ppal03.hesiwap437.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.59.70:80 sing-box 1108
-vless://5543ae5c-c24f-405a-9266-597cbc43c818@8.222.213.91:587?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-8.222.213.91:587 sing-box 1075
-vless://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.179.157:80 sing-box 1250
-vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.16.144.242:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.144.242:2083 sing-box 1240
+vless://72ca20e3-0a4a-4484-82d7-c9ba670621bb@212.80.10.15:444?security=none&type=tcp&host=7z90w2qs.cafebazaar.ir%2C+7z90w2qs.divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.10.15:444 sing-box 212
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.194:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.194:8880 sing-box 232
+vless://b6c6856b-fa48-4b2d-a252-a55ed5fc3605@95.211.62.200:80?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=r3AUhD5_0NU00NjPOH5XdfVvZfJLmmqnt5cdH0WQsGo#🔒 VL-TCP-RLT 🇳🇱 NL-95.211.62.200:80 sing-box 344
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=none&sni=pqh25v1.vetdomok.shop&type=grpc#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.114:8880 sing-box 394
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.190.19:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-84.32.190.19:8880 sing-box 417
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-78.47.141.72:8880 sing-box 419
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443 sing-box 439
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.108:8880 sing-box 454
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-84.32.25.237:8880 sing-box 445
+vless://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&type=ws&host=de09.abvpn.ru&path=%2Fwebsocket#🔒 VL-WS-TLS 🇩🇪 DE-150.241.101.16:443 sing-box 444
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.124:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.124:8880 sing-box 474
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?security=tls&sni=lv01.abvpn.ru&type=ws&host=lv01.abvpn.ru&path=%2Fwebsocket#🔒 VL-WS-TLS 🇹🇷 TR-103.231.73.214:443 sing-box 536
+vless://c2db147c-fc6a-4840-a9d6-c154048f0e1e@51.89.119.99:26528?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#🔒 VL-GRPC-RLT 🇬🇧 GB-51.89.119.99:26528 sing-box 570
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:2053 sing-box 622
+vless://5d54e230-ead8-4d81-ae19-2ffe989de437@91.107.167.56:443?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=rYRZBYA4lA4ht8pS9lPBPht335pmdW40BPO9aMHQkSo&sid=be#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.167.56:443 sing-box 626
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.193:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.193:8880 sing-box 672
+vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.68.33:443?security=tls&sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.33:443 sing-box 724
+vless://68509f46-3d3b-4eaf-9fff-d5eb032ecddd@65.109.212.145:2052?security=reality&sni=tgju.org&type=tcp&host=%2FJOK%45%52%52VPNJoin_Bade_Channel%40JOK%45R%52VPN&fp=chrome&pbk=lyERL7w2tINLy4Z2hlEbg8wyfzO7uTpESrZMZzr3iVo&sid=83e8#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.212.145:2052 sing-box 714
+vless://09bfe0ca-8491-469a-d2ed-2a84db3d1fee@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2082 sing-box 728
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.228:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.228:8880 sing-box 758
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.26:8880 sing-box 846
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.192:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.192:8880 sing-box 882
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.191:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.191:8880 sing-box 962
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.123:8880?type=grpc#🔒 VL-GRPC-NA 🇳🇱 NL-88.216.187.123:8880 sing-box 949
+vless://666a9bd9-c6c0-4c2b-8d78-69142424931d@104.16.156.65:443?security=tls&sni=paipai-kti.pages.dev&type=ws&host=paipai-kti.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.156.65:443 sing-box 1025
+vless://e7365652-4f1e-4cdf-b946-21733c9e7731@104.24.174.219:443?security=tls&sni=fly-z4h.pages.dev&type=ws&host=fly-z4h.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.174.219:443 sing-box 1138
+vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.24.94.106:2087?security=tls&sni=w-am1.pages.dev&type=ws&host=w-am1.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.94.106:2087 sing-box 1174
+vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.16.32.132:443?security=tls&sni=w-mce.pages.dev&type=ws&host=w-mce.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.32.132:443 sing-box 1203
+vless://27fdbffe-67a6-4012-fa3e-8ab349ec0a91@81.31.250.218:43851?allowInsecure=0&type=ws#14%7CIR_speednode_0017 sing-box 1271

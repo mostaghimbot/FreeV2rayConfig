@@ -1,2 +1,2 @@
-vless://5125ef9d-d366-4e69-b049-0dc37a6f5783@79.137.32.159:2052?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇫🇷 FR-79.137.32.159:2052 sing-box 698
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&sni=pqh27v3.nature27.shop&type=grpc&host=pqh27v3.nature27.shop#🔒 VL-GRPC-NONE 🇨🇾 CY-45.82.251.141:8880 sing-box 758
+vless://924513c3-1b37-4b0b-abff-502b2313d5e5@54.37.79.80:37407?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-54.37.79.80:37407 sing-box 586
+vless://2127b978-c320-4d31-8045-dfb9a643fd54@104.19.54.50:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.50:8080 sing-box 1188

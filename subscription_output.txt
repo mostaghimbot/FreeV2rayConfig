@@ -1,1 +1,1 @@
-vless://ff9bebc5-7d9c-44ac-93c2-eef35603d63a@157.230.17.102:16344?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-157.230.17.102:16344 sing-box 1304
+vless://65ed425a-63ac-46ae-ba70-309f0b5d9034@138.199.168.193:3070?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-138.199.168.193:3070 sing-box 1399

@@ -1,2 +1,5 @@
-vless://dc8a7de0-e311-4675-bce9-656dada9751a@164.90.190.249:2053?security=tls&sni=qauuf.iran.ailreza.org.tr&type=grpc&serviceName=qauuf.iran.ailreza.org.tr&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-164.90.190.249:2053 sing-box 416
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.89:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.89:8880 sing-box 735
+vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703 sing-box 253
+vless://9c9698a7-2a8b-4885-aeef-a764bdff9fbb@5.160.200.110:5005?security=tls&sni=panelr25.iranmaan.com&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇮🇷 IR-5.160.200.110:5005 sing-box 310
+vless://dc8a7de0-e311-4675-bce9-656dada9751a@164.90.190.249:2053?security=tls&sni=qauuf.iran.ailreza.org.tr&type=grpc&serviceName=qauuf.iran.ailreza.org.tr&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-164.90.190.249:2053 sing-box 760
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.89:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.89:8880 sing-box 771
+vless://cc37532d-3158-44b6-aa05-1eb9064fcff0@62.60.147.73:23245?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.147.73:23245 sing-box 1242

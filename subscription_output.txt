@@ -1,6 +1,4 @@
-vless://7bc4a6ec-e65d-476b-83c0-ab79b72d4c91@109.120.187.5:35745?security=none&type=tcp&host=nobitex.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-109.120.187.5:35745 sing-box 267
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.145:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-104.239.72.145:8880 sing-box 356
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.41:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇷🇺 RU-176.124.223.41:8880 sing-box 382
-vless://15868173-1378-4984-a4e2-07d51591b237@173.245.59.26:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.26:2096 sing-box 404
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.89:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.89:8880 sing-box 551
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.7:8880 sing-box 800
+vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703 sing-box 247
+vless://15868173-1378-4984-a4e2-07d51591b237@173.245.59.26:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.26:2096 sing-box 396
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.145:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-104.239.72.145:8880 sing-box 440
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.7:8880 sing-box 483

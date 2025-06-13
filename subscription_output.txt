@@ -1,3 +1,1 @@
-vless://f83da004-1c48-4a85-9fe3-a2501258fbcc@78.111.86.137:8443?type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NA 🇳🇱 NL-78.111.86.137:8443 sing-box 213
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.89:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.89:8880 sing-box 424
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.213:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-104.129.167.213:8880 sing-box 476
+vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703 sing-box 237

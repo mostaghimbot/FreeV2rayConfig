@@ -1,2 +1,5 @@
-vless://81e3312a-6740-4439-b771-5508acf485b2@80.71.227.131:443?security=reality&flow=xtls-rprx-vision&sni=website.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇳🇱 NL-80.71.227.131:443 sing-box 362
-vless://15868173-1378-4984-a4e2-07d51591b237@173.245.59.26:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.26:2096 sing-box 401
+vless://d49f777a-6b2b-4286-bc20-c5e862135716@109.172.55.28:2063?type=grpc&serviceName=2095vless#🔒 VL-GRPC-NA 🇫🇷 FR-109.172.55.28:2063 sing-box 291
+vless://12a2d6c3-0690-443d-8e4d-d79478582241@195.211.47.113:2086?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-195.211.47.113:2086 sing-box 364
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@14.102.229.27:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-14.102.229.27:8880 sing-box 402
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.213:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-104.129.167.213:8880 sing-box 409
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@176.124.223.6:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇷🇺 RU-176.124.223.6:8880 sing-box 541

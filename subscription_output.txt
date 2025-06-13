@@ -1,1 +1,2 @@
-vless://aa136e7a-7046-4df5-a0ea-6c2b07a2834f@95.179.247.124:50516?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-95.179.247.124:50516 sing-box 280
+vless://6fb6e835-23c5-4309-b362-b3c1da78d5b2@104.17.147.22:80?security=none&type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80 sing-box 274
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.145:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-104.239.72.145:8880 sing-box 358

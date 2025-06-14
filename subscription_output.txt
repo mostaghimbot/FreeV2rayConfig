@@ -1,2 +1,1 @@
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703 sing-box 248
-vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 810
+vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 643

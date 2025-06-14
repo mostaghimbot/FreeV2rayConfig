@@ -1,1 +1,1 @@
-vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 643
+vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&type=httpupgrade&host=gE-sNaPp.ZeMpA-lOvE.ir&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:8880 sing-box 392

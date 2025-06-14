@@ -1,1 +1,2 @@
-vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&type=httpupgrade&host=gE-sNaPp.ZeMpA-lOvE.ir&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:8880 sing-box 392
+vless://0d26383d-21f7-4159-986a-a7ecac87e072@31.59.184.96:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#🔒 VL-TCP-RLT 🇮🇳 IN-31.59.184.96:443 sing-box 764
+vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&type=httpupgrade&host=gE-sNaPp.ZeMpA-lOvE.ir&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:8880 sing-box 1100

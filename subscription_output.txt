@@ -1,6 +1,5 @@
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-86.38.214.53:8880 sing-box 371
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.91:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.91:8880 sing-box 376
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.254:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-104.239.72.254:8880 sing-box 384
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@154.206.12.245:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-154.206.12.245:8880 sing-box 420
-vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 827
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.21.112.1:443?security=tls&sni=noisy-tree-c5ab.wctyryc.workers.dev&type=ws&host=noisy-tree-c5ab.wctyryc.workers.dev&path=%2Fbitget1.asdasd.click%3A8443%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:443 sing-box 931
+vless://f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.195:38323?security=none&type=tcp&host=alibaba.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.101.195:38323 sing-box 158
+vless://f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.193:38323?security=none&type=tcp&host=alibaba.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.101.193:38323 sing-box 161
+vless://64d50ae1-561e-4663-a39f-84f2ab2bc53d@95.181.174.243:51340?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-95.181.174.243:51340 sing-box 178
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.193:8880 sing-box 402
+vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 717

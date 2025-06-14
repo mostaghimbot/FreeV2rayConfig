@@ -1,5 +1,4 @@
-vless://f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.195:38323?security=none&type=tcp&host=alibaba.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.101.195:38323 sing-box 158
-vless://f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.193:38323?security=none&type=tcp&host=alibaba.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.101.193:38323 sing-box 161
-vless://64d50ae1-561e-4663-a39f-84f2ab2bc53d@95.181.174.243:51340?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-95.181.174.243:51340 sing-box 178
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.193:8880 sing-box 402
-vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 717
+vless://64d50ae1-561e-4663-a39f-84f2ab2bc53d@95.181.174.243:51340?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-95.181.174.243:51340 sing-box 527
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.228:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-102.177.189.228:8880 sing-box 594
+vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 692
+vless://1031d7ce-1ba3-4b51-90ec-5fb5eaa20d89@213.142.156.169:666?security=none&type=grpc&serviceName=443vless#🔒 VL-GRPC-NONE 🇹🇷 TR-213.142.156.169:666 sing-box 767

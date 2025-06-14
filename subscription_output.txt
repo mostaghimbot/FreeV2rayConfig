@@ -1,2 +1,6 @@
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒 VL-TCP-NONE 🇸🇪 SE-62.60.153.55:14703 sing-box 270
-vless://0d26383d-21f7-4159-986a-a7ecac87e072@31.59.184.96:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#🔒 VL-TCP-RLT 🇮🇳 IN-31.59.184.96:443 sing-box 714
+vless://ff3ea61d-ef95-4f1d-aa93-7be39330fdb1@217.60.198.86:20500?type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NA 🇦🇪 AE-217.60.198.86:20500 sing-box 337
+vless://e4c312d0-5730-44a4-876d-2bc244f30156@80.71.227.131:443?security=reality&flow=xtls-rprx-vision&sni=website.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇳🇱 NL-80.71.227.131:443 sing-box 366
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.72:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-88.216.67.72:8880 sing-box 385
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.62:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-86.38.214.62:8880 sing-box 510
+vless://0d26383d-21f7-4159-986a-a7ecac87e072@31.59.184.96:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#🔒 VL-TCP-RLT 🇮🇳 IN-31.59.184.96:443 sing-box 758
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.91:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.91:8880 sing-box 1002

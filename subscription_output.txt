@@ -1,1 +1,6 @@
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.21.64.1:443?security=tls&sni=noisy-tree-c5ab.wctyryc.workers.dev&type=ws&host=noisy-tree-c5ab.wctyryc.workers.dev&path=%2Fbitget1.asdasd.click%3A8443%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:443 sing-box 619
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-86.38.214.53:8880 sing-box 371
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.91:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.91:8880 sing-box 376
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.239.72.254:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-104.239.72.254:8880 sing-box 384
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@154.206.12.245:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-154.206.12.245:8880 sing-box 420
+vless://66f1504e-26ab-4219-c8d6-eab468906e46@151.101.4.13:443?security=tls&sni=map.google.com&type=ws&host=aklisusa.com&path=/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&fp=firefox&allowInsecure=true#🔒 VL-WS-TLS 🇺🇸 US-151.101.4.13:443 sing-box 827
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.21.112.1:443?security=tls&sni=noisy-tree-c5ab.wctyryc.workers.dev&type=ws&host=noisy-tree-c5ab.wctyryc.workers.dev&path=%2Fbitget1.asdasd.click%3A8443%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:443 sing-box 931

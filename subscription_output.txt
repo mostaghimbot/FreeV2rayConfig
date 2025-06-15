@@ -1,1 +1,2 @@
-vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&type=httpupgrade&host=nL-sNaPp.ZeMpA-lOvE.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:8880 sing-box 452
+vless://abf6cbe0-8776-4b03-8e08-a7f8da202f12@89.32.250.83:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-89.32.250.83:8443 sing-box 395
+vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&type=httpupgrade&host=nL-sNaPp.ZeMpA-lOvE.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:8880 sing-box 738

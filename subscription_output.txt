@@ -1,1 +1,1 @@
-vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=us.cishanjichang.me&type=ws&host=us.cishanjichang.me&path=%2Fswordnewnewnew&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.31:443 sing-box 736
+vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&type=httpupgrade&host=nL-sNaPp.ZeMpA-lOvE.ir&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:8880 sing-box 452

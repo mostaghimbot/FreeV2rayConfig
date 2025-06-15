@@ -1,1 +1,2 @@
-vless://0d26383d-21f7-4159-986a-a7ecac87e072@31.59.184.96:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#🔒 VL-TCP-RLT 🇮🇳 IN-31.59.184.96:443 sing-box 858
+vless://d895495c-d1ed-46e4-9235-35c54c9ed901@80.71.227.131:443?security=reality&flow=xtls-rprx-vision&sni=website.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇳🇱 NL-80.71.227.131:443 sing-box 330
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?security=tls&sni=mylearn-8zx.pages.dev&type=ws&host=mylearn-8zx.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.103:443 sing-box 714
